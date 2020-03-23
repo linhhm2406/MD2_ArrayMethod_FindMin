@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1ec4ab1e-7861-4ceb-b689-48cffb7d4bbc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZTVM5bwqmOY7HpAilYR2jP2fyL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RunManager">
+    <configuration name="FIndMin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FIndMin" />
+      <module name="FIndMin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FIndMin" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ec4ab1e-7861-4ceb-b689-48cffb7d4bbc" name="Default Changelist" comment="" />
+      <created>1584863019440</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584863019440</updated>
+      <workItem from="1584863022078" duration="489000" />
+      <workItem from="1584863696477" duration="1355000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="692" y="361" width="525" height="323" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1584863054174">
+      <screen x="0" y="27" width="1920" height="994" />
+    </state>
+    <state x="692" y="361" width="525" height="323" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.27.1920.994@0.27.1920.994" timestamp="1584863054174" />
+    <state x="743" y="281" width="424" height="484" key="FileChooserDialogImpl" timestamp="1584863471532">
+      <screen x="0" y="27" width="1920" height="994" />
+    </state>
+    <state x="743" y="281" width="424" height="484" key="FileChooserDialogImpl/0.27.1920.994@0.27.1920.994" timestamp="1584863471532" />
+    <state width="914" height="235" key="GridCell.Tab.0.bottom" timestamp="1584865051043">
+      <screen x="0" y="27" width="1920" height="994" />
+    </state>
+    <state width="914" height="235" key="GridCell.Tab.0.bottom/0.27.1920.994@0.27.1920.994" timestamp="1584865051043" />
+    <state width="914" height="235" key="GridCell.Tab.0.center" timestamp="1584865051043">
+      <screen x="0" y="27" width="1920" height="994" />
+    </state>
+    <state width="914" height="235" key="GridCell.Tab.0.center/0.27.1920.994@0.27.1920.994" timestamp="1584865051043" />
+    <state width="914" height="235" key="GridCell.Tab.0.left" timestamp="1584865051043">
+      <screen x="0" y="27" width="1920" height="994" />
+    </state>
+    <state width="914" height="235" key="GridCell.Tab.0.left/0.27.1920.994@0.27.1920.994" timestamp="1584865051043" />
+    <state width="914" height="235" key="GridCell.Tab.0.right" timestamp="1584865051043">
+      <screen x="0" y="27" width="1920" height="994" />
+    </state>
+    <state width="914" height="235" key="GridCell.Tab.0.right/0.27.1920.994@0.27.1920.994" timestamp="1584865051043" />
+    <state x="848" y="68" width="1024" height="845" key="SettingsEditor" timestamp="1584864727786">
+      <screen x="0" y="27" width="1920" height="994" />
+    </state>
+    <state x="848" y="68" width="1024" height="845" key="SettingsEditor/0.27.1920.994@0.27.1920.994" timestamp="1584864727786" />
+    <state x="267" y="101" width="1374" height="843" key="new project wizard" timestamp="1584865049660">
+      <screen x="0" y="27" width="1920" height="994" />
+    </state>
+    <state x="267" y="101" width="1374" height="843" key="new project wizard/0.27.1920.994@0.27.1920.994" timestamp="1584865049660" />
+    <state x="724" y="331" key="save.file.as.template.dialog" timestamp="1584863230567">
+      <screen x="0" y="27" width="1920" height="994" />
+    </state>
+    <state x="724" y="331" key="save.file.as.template.dialog/0.27.1920.994@0.27.1920.994" timestamp="1584863230567" />
+    <state x="799" y="420" width="312" height="206" key="save.project.as.template.dialog" timestamp="1584863419817">
+      <screen x="0" y="27" width="1920" height="994" />
+    </state>
+    <state x="799" y="420" width="312" height="206" key="save.project.as.template.dialog/0.27.1920.994@0.27.1920.994" timestamp="1584863419817" />
+    <state x="623" y="243" key="search.everywhere.popup" timestamp="1584863292786">
+      <screen x="0" y="27" width="1920" height="994" />
+    </state>
+    <state x="623" y="243" key="search.everywhere.popup/0.27.1920.994@0.27.1920.994" timestamp="1584863292786" />
+  </component>
+</project>
